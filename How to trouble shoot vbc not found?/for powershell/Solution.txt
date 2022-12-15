@@ -1,0 +1,15 @@
+Step 1: Save your file as filename.vb    (ex = Hello.vb)
+
+Step 2:  goto Tools -> Command Line -> Developer Powershell
+
+(tools in Menu bar)
+
+
+Step 3: Compile Your file as
+
+vbc filename.vb
+(ex = vbc Hello.vb)
+
+Step 4: Write Filename as
+filename
+(ex = Hello)
